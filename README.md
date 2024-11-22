@@ -1,9 +1,4 @@
-## About this course
-
-LEARN HOW TO BUILD AND DEPLOY FULL RESPONSIVE ECOMMERCE WEBSITE USING HTML CSS & JAVASCRIPT. This is a free HTML CSS Course. And in this course we will learn how to build and deploy a full multipage ecommerce website completely from scratch step by step. Will Create from responsive navbar using html CSS JavaScript to responsive footer in one video.
-
-## Why?
-
+## About the Project
 - Responsive Ecommerce Website Using HTML CSS & JavaScript.
 - Completely Beginner project.
 - Multipage Ecommerce Website Project.
@@ -26,4 +21,4 @@ LEARN HOW TO BUILD AND DEPLOY FULL RESPONSIVE ECOMMERCE WEBSITE USING HTML CSS &
 
 ## N/B
 
-Feel free to make adjusments to the images in their folder to suit your preference, images are obtained from the web and are subject to their owners free will for use by the public, any form of non-compliance or infringement of those rights shall be met by legal measures. Copyrights reserved. @Brightone-2023
+Feel free to make adjusments to the images in their folder to suit your preference, images are obtained from the web and are subject to their owners free will for use by the public, any form of non-compliance or infringement of those rights shall be met by legal measures. Copyrights reserved. @Brightone-2024
